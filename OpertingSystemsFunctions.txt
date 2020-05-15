@@ -4,3 +4,6 @@ There are two types of operating system user interfaces: Graphical and command l
 Operating system user interfaces often use a combination of both techniques to define how user interact with a computer or mobile device,
 Graphical user interface (GUI) is call a touch user interface because people will touch or click menu on the screen to enter data or commands.
  In command line interface, people will type their command by keyboard. It has  a little error about spelling , but gives User more control to manage details setting. 
+One more other operating system function is managing program.
+ Operating handle most of computer program directly by two way: a single tasking operating system that only one program run at time and Multitasking that allow two or more programs to reside in memory at the same time.
+ When computer is running multiprogram at the same time, the foreground is the active program that people is working. The background is program other is running but it is not in use. The multitasking operating system allow people can switch between background and foreground easily.
