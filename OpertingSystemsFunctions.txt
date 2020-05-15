@@ -1,6 +1,6 @@
-One of the Operating system function is start and shutdown computer. starting up compute is similar for most of computer or mobile devices, and follow 5 steps such as 
-step 1 sending electrical current to circuitry in the computer.
-Step 2 the processor chip to reset itself and finds the firmware that contain the start-up instruction.
-Step 3 checking many components that related to the process.
-Step 4 After successful test, Kernel will load information to RAM.
-Step 5 The OS in memory takes control computer and load system configuration information. At last, the user interface appears on the screen 
+Another Operating systems functions is providing a User interface.
+when people working on computer, they will contact with operating system through user interface (UI) that control how data and instructions enter to computer and how information is display in the screen.
+There are two types of operating system user interfaces: Graphical and command line.
+Operating system user interfaces often use a combination of both techniques to define how user interact with a computer or mobile device,
+Graphical user interface (GUI) is call a touch user interface because people will touch or click menu on the screen to enter data or commands.
+ In command line interface, people will type their command by keyboard. It has  a little error about spelling , but gives User more control to manage details setting. 
